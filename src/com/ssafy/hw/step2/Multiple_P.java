@@ -21,7 +21,7 @@ public class Multiple_P {
 			System.out.print("다음 숫자 입력 : ");
 			num = sc.nextInt();
 			
-		}
+		}  
 		
 		System.out.println("프로그램 종료");
 
