@@ -12,6 +12,7 @@ public class ArrayTest_21 {
         for (int i = 0; i < R; i++) {
 			for (int j = 0; j < C; j++) {
 				map[i][j]=alpha++;
+                //...
 			}
 		}
         // END
