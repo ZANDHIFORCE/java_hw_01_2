@@ -8,7 +8,7 @@ public class Multiple_P {
 
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("숫자를 입력하세요 : ");
+		System.out.print("숫자를 입력하세요33333 : ");
 		int num = sc.nextInt();
 		// 입력한 숫자 검사
 		// 0을 입력받으면 반복 종료
